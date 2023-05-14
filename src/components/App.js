@@ -8,6 +8,7 @@ const App = () => {
   let increaseCount=(e)=>{
     setCount(count+1);
   }
+  
   return (
     <div>
         {/* Do not remove the main div */}
